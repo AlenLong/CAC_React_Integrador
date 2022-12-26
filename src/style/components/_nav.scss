@@ -1,0 +1,50 @@
+.nav{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    padding: 20px;
+    height: 70px; 
+    transition-timing-function: ease-in;
+    transition: all 0.5s;
+    &__black{
+        background-color: #0c0c0c;
+    }
+    .nav__logo {
+        position: fixed;
+        left: 20;
+        width: 80px;
+        object-fit: contain;
+      }
+      .nav__signin {
+        position: fixed;
+        right: 60px;
+        color: white;
+        background-color: #e50914;
+        border: none;
+        font-size: 15px;
+        border-radius: 3px;
+        padding: 8px 17px;
+        cursor: pointer;
+
+        &:hover {
+          background-color: #f40612;
+      }
+      }
+        .nav__avatar {
+          position: fixed;
+          background-color: #f40612;
+          right: 20px;
+          top: 15px;
+          width: 40px;
+          height: 40px;
+          border-radius: 50%;
+          color: white;
+          object-fit: contain;
+          align-items: center;
+          display: flex;
+          justify-content: center;
+          font-weight: 600;
+          font-size: 26px;
+          font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+        }
+}
