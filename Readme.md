@@ -20,7 +20,7 @@
 <p><a href="https://www.linkedin.com/in/mdqchaves/">Hector Chaves</p>
 <p><a href="https://www.linkedin.com/mwlite/in/jazmin-saravia-776a30189">jazmin Saravia</a></p>
 <p><a href="https://www.linkedin.com/in/mayerlingsojo/ ">Miriam Moreno</a></p>
-<p>Alen Long</p>
+<p><a href="https://github.com/AlenLong ">Alen Long</a></p>
 <p>Mayerling Sojo</p>
 <p>Keeynnyth Donado</p> 
  
